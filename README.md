@@ -15,7 +15,7 @@ Currently working with python development, OOP paradigms and elasticsearch score
   - Open database with EAN codes (barcodes) 
   - Learning tools to linux begginers (a friendly cli)
   - and the list go on...
-  !(https://img.icons8.com/bubbles/2x/inspection.png)
+  ![](https://img.icons8.com/bubbles/2x/inspection.png)
 
 ## Repos
   ### interview code responses
