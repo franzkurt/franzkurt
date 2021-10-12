@@ -12,9 +12,21 @@ Currently working with python development, OOP paradigms and elasticsearch score
 ![](https://img.icons8.com/bubbles/2x/inspection.png)
 ## Projects currently in work:
   - Crawler to webpages
+    - [x] Studying firewalls that are currenctly blocking scraper tools
+    - [ ] Learning about Radware and Perimeter X
+    - [ ] Defeating filters and CDNs blocks
   - Integration of databases with IPFS and LibP2P
+    - [x] Learning P2P principles 
+    - [ ] Integrate IPFS onto Python tools
+    - [ ] Generate a generic database
   - Open database with EAN codes (barcodes) 
+    - [x] Discover useful links
+    - [ ] Modify the Crawler to download info
+    - [ ] Generate a CSV with product's description   
   - Learning tools to linux begginers (a friendly cli)
+    - [ ] Architect a cli tool to begginer install linux without fear
+    - [ ] Generate a PoC to present to someone
+    - [ ] Iteract with people presenting commands like netstat,ls,..   
   - and the list go on...
 
 ![](https://img.icons8.com/bubbles/2x/internship.png)
@@ -36,6 +48,7 @@ Currently working with python development, OOP paradigms and elasticsearch score
   - https://github.com/franzkurt/wpa_crack.py
   - https://github.com/franzkurt/Namechk
 
+![](https://img.icons8.com/bubbles/2x/innovation.png)
 ## Follow my work 
   - Articles at Medium: https://franzkurt.medium.com/
   - Top article: https://franzkurt.medium.com/como-eu-criei-um-script-para-quebra-de-senhas-de-rede-wi-fi-com-scapy-8a3dae8b8b2c
