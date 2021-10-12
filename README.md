@@ -9,14 +9,15 @@ Always working and studiyng in contact with math, electric and software engineer
 I had experience with UEFI (BIOS interface) at HP Inc, security development and penetration test for cyber security research and a little contact with WEB, API and network technologies like VueJs, Flask, Material, Bootstrap and etc..
 Currently working with python development, OOP paradigms and elasticsearch score and scripts to match products with caracteristics.
 
+![](https://img.icons8.com/bubbles/2x/inspection.png)
 ## Projects currently in work:
   - Crawler to webpages
   - Integration of databases with IPFS and LibP2P
   - Open database with EAN codes (barcodes) 
   - Learning tools to linux begginers (a friendly cli)
   - and the list go on...
-  - ![](https://img.icons8.com/bubbles/2x/inspection.png)
 
+![](https://img.icons8.com/bubbles/2x/internship.png)
 ## Repos
   ### interview code responses
   - https://github.com/franzkurt/webglobal
