@@ -17,7 +17,9 @@ Currently working with python development, OOP paradigms and elasticsearch score
   - and the list go on...
 
 ## Follow my work 
-URL to my Medium RSS feed: http://medium.com/feed/@[franzkurt]
+Articles at Medium: https://franzkurt.medium.com/
+Top article: https://franzkurt.medium.com/como-eu-criei-um-script-para-quebra-de-senhas-de-rede-wi-fi-com-scapy-8a3dae8b8b2c
+URL to my Medium RSS feed: https://medium.com/feed/@franzkurt
 
 ## Contact
 - 📫 How to reach me: franz.gastring@gmail.com
