@@ -16,4 +16,4 @@
 - my linkedin (for professional contact only): https://www.linkedin.com/in/franz-kurt-de-ramos-gastring-a57772108/
 
 If I not answaer possibly I am travelling the world!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![](https://github.com/franzkurt/franzkurt/blob/main/download.jpeg)
