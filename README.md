@@ -1,4 +1,3 @@
-:cyclone:
 ## Presentation
 - 👋 Hi, I’m @franzkurt
 - 👀 I’m interested in Developing a better world to all!
@@ -61,4 +60,4 @@ Currently working with python development, OOP paradigms and elasticsearch score
 
 If I not answaer possibly I am travelling the world!
 
-![](https://github.com/franzkurt/franzkurt/blob/main/download.jpeg)
+![](https://i.pinimg.com/originals/08/c3/ab/08c3ab0fbe309704d464de613ca024d5.jpg)
