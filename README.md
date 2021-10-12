@@ -11,22 +11,26 @@ Currently working with python development, OOP paradigms and elasticsearch score
 
 ![](https://img.icons8.com/bubbles/2x/inspection.png)
 ## Projects currently in work:
-  - Crawler to webpages
+  1. Crawler to webpages
     - [x] Studying firewalls that are currenctly blocking scraper tools
     - [ ] Learning about Radware and Perimeter X
     - [ ] Defeating filters and CDNs blocks
-  - Integration of databases with IPFS and LibP2P
+    
+  2. Integration of databases with IPFS and LibP2P
     - [x] Learning P2P principles 
     - [ ] Integrate IPFS onto Python tools
     - [ ] Generate a generic database
-  - Open database with EAN codes (barcodes) 
+
+  3. Open database with EAN codes (barcodes) 
     - [x] Discover useful links
     - [ ] Modify the Crawler to download info
     - [ ] Generate a CSV with product's description   
-  - Learning tools to linux begginers (a friendly cli)
+  
+  4. Learning tools to linux begginers (a friendly cli)
     - [ ] Architect a cli tool to begginer install linux without fear
     - [ ] Generate a PoC to present to someone
     - [ ] Iteract with people presenting commands like netstat,ls,..   
+  
   - and the list go on...
 
 ![](https://img.icons8.com/bubbles/2x/internship.png)
