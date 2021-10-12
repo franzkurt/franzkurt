@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @franzkurt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Developing a better world to all!
+- 🌱 I’m currently learning python, data  science and blockchain P2P
+- 💞️ I’m looking to collaborate on anything that a know or can learn about
+- 📫 How to reach me: franz.gastring@gmail.com
+- my linkedin (for professional contact only): https://www.linkedin.com/in/franz-kurt-de-ramos-gastring-a57772108/
 
-<!---
-franzkurt/franzkurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects currently in work:
+  - Crawler to webpages
+  - Open database with EAN codes (barcodes) 
+  - Learning tools to linux begginers (a friendly cli)
+  - and the list go on...
