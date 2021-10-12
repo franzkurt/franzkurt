@@ -16,10 +16,28 @@ Currently working with python development, OOP paradigms and elasticsearch score
   - Learning tools to linux begginers (a friendly cli)
   - and the list go on...
 
+## Repos
+  ### interview code responses
+  - https://github.com/franzkurt/webglobal
+  - https://github.com/franzkurt/stateMachine
+  - https://github.com/franzkurt/backendPermutas
+  - https://github.com/franzkurt/mars-rover
+  
+  #### Crazy ideas
+  - https://github.com/franzkurt/chatJS
+  - https://github.com/franzkurt/blockchain
+  - https://github.com/franzkurt/pupeeter
+  
+  #### Cyber security Tools and research utils
+  - https://github.com/franzkurt/privacy-preserving-credential-scheme-over-blockchain
+  - https://github.com/franzkurt/hash3liZer
+  - https://github.com/franzkurt/wpa_crack.py
+  - https://github.com/franzkurt/Namechk
+
 ## Follow my work 
-Articles at Medium: https://franzkurt.medium.com/
-Top article: https://franzkurt.medium.com/como-eu-criei-um-script-para-quebra-de-senhas-de-rede-wi-fi-com-scapy-8a3dae8b8b2c
-URL to my Medium RSS feed: https://medium.com/feed/@franzkurt
+  - Articles at Medium: https://franzkurt.medium.com/
+  - Top article: https://franzkurt.medium.com/como-eu-criei-um-script-para-quebra-de-senhas-de-rede-wi-fi-com-scapy-8a3dae8b8b2c
+  - URL Medium RSS feed: https://medium.com/feed/@franzkurt
 
 ## Contact
 - 📫 How to reach me: franz.gastring@gmail.com
