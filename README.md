@@ -9,7 +9,6 @@ Always working and studiyng in contact with math, electric and software engineer
 I had experience with UEFI (BIOS interface) at HP Inc, security development and penetration test for cyber security research and a little contact with WEB, API and network technologies like VueJs, Flask, Material, Bootstrap and etc..
 Currently working with python development, OOP paradigms and elasticsearch score and scripts to match products with caracteristics.
 
-![](https://img.icons8.com/bubbles/2x/inspection.png)
 ## Projects currently in work:
   - Crawler to webpages
     - [x] Studying firewalls that are currenctly blocking scraper tools
@@ -33,7 +32,6 @@ Currently working with python development, OOP paradigms and elasticsearch score
   
   - and the list go on...
 
-![](https://img.icons8.com/bubbles/2x/internship.png)
 ## Repos
   ### interview code responses
   - https://github.com/franzkurt/webglobal
@@ -52,7 +50,6 @@ Currently working with python development, OOP paradigms and elasticsearch score
   - https://github.com/franzkurt/wpa_crack.py
   - https://github.com/franzkurt/Namechk
 
-![](https://img.icons8.com/bubbles/2x/innovation.png)
 ## Follow my work 
   - Articles at Medium: https://franzkurt.medium.com/
   - Top article: https://franzkurt.medium.com/como-eu-criei-um-script-para-quebra-de-senhas-de-rede-wi-fi-com-scapy-8a3dae8b8b2c
