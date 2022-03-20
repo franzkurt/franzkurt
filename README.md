@@ -42,8 +42,6 @@
 
 ## Repos
   ### interview code responses
-  - https://github.com/franzkurt/webglobal
-  - https://github.com/franzkurt/stateMachine
   - https://github.com/franzkurt/backendPermutas
   - https://github.com/franzkurt/mars-rover
   
@@ -52,7 +50,7 @@
   - https://github.com/franzkurt/blockchain
   - https://github.com/franzkurt/pupeeter
   
-  #### Cyber security Tools and research utils
+  #### Cyber security Tools and research utils (Just forked)
   - https://github.com/franzkurt/privacy-preserving-credential-scheme-over-blockchain
   - https://github.com/franzkurt/hash3liZer
   - https://github.com/franzkurt/wpa_crack.py
