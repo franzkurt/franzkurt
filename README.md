@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything that I know or can I learn about
 
 ## Curriculum
-- [x] Math by bachelor degree in Control Engineer at PUCRS
+- [x] Bachelor degree in Control Engineer at PUCRS
 - [x] Contact with WEB stacks like VueJs, Flask, Bootstrap, JS and APIs
 - [x] Software Engineer in languages like C and Python
 - [x] Experience with UEFI (BIOS interface) at HP Inc
