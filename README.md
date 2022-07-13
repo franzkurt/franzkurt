@@ -17,6 +17,8 @@
 - [x] SysAdmin skills like generating assymetric keys and managing access at linux enviroments
 - [x] Currently working with python networking, proxy, OOP and functional paradigms and postgres.
 
+Follow my linkedin for more information (for professional contact only): https://www.linkedin.com/in/franz-kurt-de-ramos-gastring-a57772108/
+
 ## Projects currently in work:
   - Crawler to webpages
     - [x] Studying firewalls that are currenctly blocking scraper tools
@@ -66,8 +68,8 @@
   - URL Medium RSS feed: https://medium.com/feed/@franzkurt
 
 ## Contact
+
 - 📫 How to reach me: franz.gastring@gmail.com
-- my linkedin (for professional contact only): https://www.linkedin.com/in/franz-kurt-de-ramos-gastring-a57772108/
 
 If I not answaer possibly I am travelling the world!
 
