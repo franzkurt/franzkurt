@@ -1,18 +1,21 @@
 ## Presentation
-- ![image](https://user-images.githubusercontent.com/18050892/178729036-c6fce6f6-e40b-4a9c-bbf5-72f46d7f0585.png) Hi, I’m @franzkurt
+![image](https://user-images.githubusercontent.com/18050892/178729036-c6fce6f6-e40b-4a9c-bbf5-72f46d7f0585.png)
+
+- :snowman: Hi, I’m @franzkurt
 - 👀 I’m interested in Developing a better world to all!
-- 🌱 I’m currently learning python, data science, pentest, linux administration and P2P networks
-- 💞️ I’m looking to collaborate on anything that I know or can I learn about
+- 🌱 I’m currently developing Python aplications in fields like data science, pentest, linux and P2P networks
+- 💞️ I’m looking to collaborate on anything that I know or can I learn about everything
 
 ## Curriculum
 - [x] Bachelor degree in Control Engineer at PUCRS
-- [x] Contact with WEB stacks like VueJs, Flask, Bootstrap, JS and APIs
 - [x] Software Engineer in languages like C and Python
+- [x] Contact with WEB stacks like VueJs, Flask, Bootstrap, JS and APIs
+
 - [x] Experience with UEFI (BIOS interface) at HP Inc
 - [x] Experience in WEB scrapper and network stack, with parser abilities in Beautiful Soup and html.
 - [x] Experience in security research, penetration test and 
 - [x] SysAdmin skills like generating assymetric keys and managing access at linux enviroments
-- [x] Currently working with python development, OOP paradigms and postgres.
+- [x] Currently working with python networking, proxy, OOP and functional paradigms and postgres.
 
 ## Projects currently in work:
   - Crawler to webpages
@@ -33,11 +36,12 @@
     - [x] Developing Crawlers to download info
     - [ ] Generate a CSV with product's title and description
   
-  - Learning tools to linux begginers (a friendly cli)
-    - [x] Architect a cli tool to begginer install linux without fear
-    - [ ] Generate a PoC to present to someone
-    - [ ] Iteract with people presenting commands like netstat,ls,..   
-  
+   - Enrichment database with Global product informations (title, description, ..) 
+    - [ ] Discover useful products to enrich
+    - [ ] Parsing famous ecommerces to retireve information
+    - [x] Developing Crawlers to download info
+    - [ ] Generate a CSV with product's title and description
+   
   - and the list go on...
 
 ## Repos
