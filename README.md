@@ -1,5 +1,5 @@
 ## Presentation
-- 👋 Hi, I’m @franzkurt
+- ![image](https://user-images.githubusercontent.com/18050892/178729036-c6fce6f6-e40b-4a9c-bbf5-72f46d7f0585.png) Hi, I’m @franzkurt
 - 👀 I’m interested in Developing a better world to all!
 - 🌱 I’m currently learning python, data science, pentest, linux administration and P2P networks
 - 💞️ I’m looking to collaborate on anything that I know or can I learn about
