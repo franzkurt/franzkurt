@@ -38,9 +38,8 @@ Follow my linkedin for more information (for professional contact only): https:/
     - [x] Developing Crawlers to download info
     - [ ] Generate a CSV with product's title and description
   
-   - Enrichment database with Global product informations (title, description, ..)
-   
-    - [ ] Discover useful products to enrich
+   - Enrichment database with Global product informations (title, description, ..)   
+    - [x] Discover useful products to enrich
     - [ ] Parsing famous ecommerces to retireve information
     - [x] Developing Crawlers to download info
     - [ ] Generate a CSV with product's title and description
