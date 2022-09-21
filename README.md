@@ -9,11 +9,11 @@
 ## Curriculum
 - [x] Bachelor degree in Control Engineer at PUCRS
 - [x] Software Engineer in languages like C and Python
-- [x] Contact with WEB stacks like VueJs, Flask, Bootstrap, JS and APIs
+- [x] Contact with WEB stacks like VueJs, FastAPI, Bootstrap CSS, JS and APIs
 
 - [x] Experience with UEFI (BIOS interface) at HP Inc
-- [x] Experience in WEB scrapper and network stack, with parser abilities in Beautiful Soup and html.
-- [x] Experience in security research, penetration test and 
+- [x] Experience in WEB scrapper and network stack, with parser abilities in Beautiful Soup and HTML
+- [x] Experience in security research, penetration tests and devops tools like ansible and docker
 - [x] SysAdmin skills like generating assymetric keys and managing access at linux enviroments
 - [x] Currently working with python networking, proxy, OOP and functional paradigms and postgres.
 
@@ -41,7 +41,7 @@ Follow my linkedin for more information: https://www.linkedin.com/in/franz-kurt-
   - and the list go on...
 
 ## Repos
-  ### interview code responses
+  #### interview code responses
   - https://github.com/franzkurt/backendPermutas
   - https://github.com/franzkurt/mars-rover
   
