@@ -1,8 +1,6 @@
 ## Presentation
 ![image](https://user-images.githubusercontent.com/18050892/178729036-c6fce6f6-e40b-4a9c-bbf5-72f46d7f0585.png)
 
-<a href="https://stackexchange.com/users/9895426"><img src="https://stackexchange.com/users/flair/9895426.png" width="208" height="58" alt="profile for Franz Gastring on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Franz Gastring on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
 - :snowman: Hi, I’m @franzkurt
 - 👀 I’m interested in Developing a better world to all!
 - 🌱 I’m currently developing Python aplications in fields like data science, pentest, linux and P2P networks
@@ -18,6 +16,9 @@
 - [x] Experience in security research, penetration tests and devops tools like ansible and docker
 - [x] SysAdmin skills like generating assymetric keys and managing access at linux enviroments
 - [x] Currently working with python networking, proxy, OOP and functional paradigms and postgres.
+
+
+<a href="https://stackexchange.com/users/9895426"><img src="https://stackexchange.com/users/flair/9895426.png" width="208" height="58" alt="profile for Franz Gastring on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Franz Gastring on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 Follow my linkedin for more information: https://www.linkedin.com/in/franz-kurt-de-ramos-gastring-a57772108/
 
