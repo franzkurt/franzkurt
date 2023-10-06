@@ -17,6 +17,7 @@
 - [x] SysAdmin skills like generating assymetric keys and managing access at linux enviroments
 - [x] Currently working with python networking, proxy, OOP and functional paradigms and postgres.
 
+### My stack profile has some badges
 
 <a href="https://stackexchange.com/users/9895426"><img src="https://stackexchange.com/users/flair/9895426.png" width="208" height="58" alt="profile for Franz Gastring on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Franz Gastring on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
